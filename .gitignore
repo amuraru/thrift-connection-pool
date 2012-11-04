@@ -25,3 +25,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+*.class
+*.jar
+/examples/java/thrift-sample/target/generated-sources*
+/examples/java/thrift-sample/target/*
+/examples/java/thrift-sample/.project
